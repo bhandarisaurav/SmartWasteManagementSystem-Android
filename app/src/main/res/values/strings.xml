@@ -15,5 +15,9 @@
     <string name="password">Password</string>
     <string name="logo">LOGO</string>
     <string name="login_button">Login</string>
+    <string name="title_activity_user_dashboard">UserDashboard</string>
+    <string name="logout">Logout</string>
+    <string name="about_us">About Us</string>
+    <string name="copy_right">Copyrights © %1$d</string>
 </resources>
 

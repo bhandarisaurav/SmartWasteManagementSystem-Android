@@ -10,6 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".AboutUs"
+            android:label="About US"></activity>
+        <activity
+            android:name=".UserDashboard"
+            android:label="@string/title_activity_user_dashboard"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name=".MainActivity"
             android:label="@string/title_activity_main"
             android:theme="@style/AppTheme.NoActionBar">
