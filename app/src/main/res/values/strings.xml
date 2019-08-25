@@ -21,5 +21,9 @@
     <string name="copy_right">Copyrights © %1$d</string>
     <string name="location">Location</string>
     <string name="load_location">Load Location</string>
+    <string name="address">address</string>
+    <string name="zip">zip</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
 </resources>
 
